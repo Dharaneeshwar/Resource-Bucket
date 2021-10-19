@@ -1,6 +1,8 @@
 # Resource Bucket  
 #### - [Dharaneeshwar P](https://www.daranip.com/)
 
+<img src="https://komarev.com/ghpvc/?username=Dharaneeshwar" alt="Dharaneeshwar" />
+
 ### What are we doing here? 
 
 This is a curated and hand-picked collection of learning resources for programmers.  
@@ -101,6 +103,14 @@ Personally I have not worked on MERN stack. But I have recommended this course f
 
 **Learn Code Online (Rs.199) -** [Full Stack MERN Bootcamp](https://courses.learncodeonline.in/learn/Full-Stack-MERN-Bootcamp) 
 (The prices mentioned are based on the time of creating this list.)
+
+### Servlets 
+
+**Tutorials:** [Servlet & JSP Tutorial | Full Course](https://www.youtube.com/watch?v=OuBUUkQfBYM&ab_channel=Telusko) 
+
+### Ember.js 
+
+**Youtube Playlist:** [Ember.js tutorial for beginners](https://www.youtube.com/watch?v=eQUvN9Ujs1s&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo&ab_channel=ShawnChen)
 
 *More to come...*   
 
